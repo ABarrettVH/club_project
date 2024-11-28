@@ -1,0 +1,49 @@
+
+
+
+header {
+    height: 5rem;
+}
+
+.reasons {
+    background-color: rgb(180, 180, 180);
+}
+
+.container {
+    position: relative;
+    top:auto;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 25vw;
+    object-fit: cover;
+}
+
+.belts {
+    width: 100%;
+}
+
+button {
+    background-color: rgb(180, 180, 180);
+    border-radius: 100px;
+}
+
+/* 
+  
+  .container, .container-fluid {
+    background-color: rgb(109, 240, 194);
+    border: black solid 15px;
+    color: rgb(0, 0, 0);
+  }
+  
+  .row {
+    background-color: rgb(236, 93, 23);
+    border: rgb(255, 199, 64) solid 10px;
+  }
+  
+  [class*="col"]{
+    border: black solid 5px;
+    background-color: rgb(100, 0, 228);
+    color: rgb(255, 255, 255);   
+  } */
